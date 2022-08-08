@@ -1,6 +1,6 @@
 # muicard
 
-A new Flutter project.
+An attempt of imitating @mui/material's Card component in Flutter.
 
 ## Getting Started
 
